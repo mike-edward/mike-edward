@@ -32,7 +32,7 @@ Certified in CCNA and ITIL5 Foundation, with developing skills in Windows Server
 - User onboarding and account provisioning  
 - DHCP / DNS troubleshooting  
 
-### 🖧  Networking
+#### 🖧  Networking
 - Network troubleshooting and diagnostics  
 - TCP/IP fundamentals  
 - Basic LAN/WAN issue resolution  
