@@ -7,7 +7,7 @@ Certified in CCNA and ITIL5 Foundation, with developing skills in Windows Server
 
 ---
 
-Certifications <br>
+`Certifications` <br>
 🟢 Cisco Certified Network Associate (CCNA) — Jan 2026  
 🟢 ITIL v5 Foundation — Apr 2026  
 🟡 CompTIA A+ — Expected May 2026  
