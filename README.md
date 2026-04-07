@@ -51,13 +51,13 @@ Certified in CCNA and ITIL5 Foundation, with developing skills in Windows Server
 
 <br>
 
-![CCNA](https://img.shields.io/badge/CCNA-Cisco_Certified_Network_Associate-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)  
-🗓️ Jan 2026  
+[![CCNA](https://img.shields.io/badge/CCNA-Cisco_Certified_Network_Associate-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/8158f68d-d41a-436f-8829-103f9357d33c)  
+Jan 2026  
 
 <br>
 
-![ITIL](https://img.shields.io/badge/ITIL-v5_Foundation-%230072C6.svg?style=for-the-badge&logo=itil&logoColor=white)  
-🗓️ Apr 2026  
+[![ITIL](https://img.shields.io/badge/ITIL-v5_Foundation-%230072C6.svg?style=for-the-badge&logo=itil&logoColor=white)](https://drive.google.com/file/d/1gL73UYwSo6xyq79gImEOCr_4lzA9R8ou/view)  
+Apr 2026  
 
 <br>
 
