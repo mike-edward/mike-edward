@@ -7,7 +7,7 @@ Certified in CCNA and ITIL5 Foundation, with developing skills in Windows Server
 
 ---
 
-**`📜 Certifications`** <br>
+**`📜 Certifications`** <a target="_blank" href="https://www.credly.com/users/edward-mike/badges#credly" style="display: inline-block;"><img src="https://img.shields.io/badge/credlly-logo?style=for-the-badge&logo=credly&logoColor=white&color=orange" alt="credly"/></a> <br>
 
 🟢 **Cisco Certified Network Associate (CCNA)** — Jan 2026  
 <br>
