@@ -1,13 +1,13 @@
 # 🖥️🖧🏗️ Edward Mike
 
-👉 **`IT Support Technician`**
+**`IT Support Technician`**
  
 Highly disciplined, hardworking, and a fast learner with a strong commitment to building a career in IT Support. Open to First Line IT Support / Service Desk roles, focused on gaining practical, hands-on experience.
 Certified in CCNA and ITIL5 Foundation, with developing skills in Windows Server, Active Directory, Group Policy, and Microsoft Intune (MDM/MAM).
 
 ---
 
-👉 **<h3>`📜 Certifications`</h3>**
+**<h3>`📜 Certifications`</h3>**
 
 - **<h4>`Cisco Certified Network Associate (CCNA)`</h4>**  - January 2026 [View on Credly](https://www.credly.com/badges/8158f68d-d41a-436f-8829-103f9357d33c)
 
@@ -19,7 +19,7 @@ Certified in CCNA and ITIL5 Foundation, with developing skills in Windows Server
 
 ---
 
-👉 **<h3>`🧰 Technical Skills`</h3>**<br>
+**<h3>`🧰 Technical Skills`</h3>**
 
 #### 🛢️🖥️ Windows Server & Infrastructure
 - Active Directory administration (users, groups, and organisational units)  
@@ -36,7 +36,7 @@ Certified in CCNA and ITIL5 Foundation, with developing skills in Windows Server
 
 ---
 
-👉 **`Social and Contact`**
+**<h3>`Social and Contact`</h3>**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Edward-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edd-edward-mike/)
 [![Email](https://img.shields.io/badge/Gmail-Contact%20Me-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eddy.edwardmike@gmail.com)
