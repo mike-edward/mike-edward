@@ -36,7 +36,7 @@ Certified in CCNA and ITIL5 Foundation, with developing skills in Windows Server
 
 ---
 
-**<h3>`Social and Contact`</h3>**
+**<h3>`🔗 Connect`</h3>**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Edward-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edd-edward-mike/)
 [![Email](https://img.shields.io/badge/Gmail-Contact%20Me-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eddy.edwardmike@gmail.com)
