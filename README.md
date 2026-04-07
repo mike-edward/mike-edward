@@ -19,7 +19,7 @@ Certified in CCNA and ITIL5 Foundation, with developing skills in Windows Server
 
 ---
 
-👉 **`🧰 Technical Skills`**<br>
+👉 **<h3>`🧰 Technical Skills`</h3>**<br>
 
 #### 🛢️🖥️ Windows Server & Infrastructure
 - Active Directory administration (users, groups, and organisational units)  
