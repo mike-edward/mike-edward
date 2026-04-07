@@ -16,6 +16,11 @@ Certified in CCNA and ITIL5 Foundation, with developing skills in Windows Server
 - **`CompTIA A +`** - expected May 2026
 
 - **`Microsoft Certifications (MD-102, MS-102)`** - planned 2026
+
+## ✅ Certification Verification
+
+- **CCNA (Cisco Certified Network Associate)** — [View on Credly](https://www.credly.com/badges/8158f68d-d41a-436f-8829-103f9357d33c)  
+- **ITIL v5 Foundation** — [View Certificate](https://drive.google.com/file/d/1gL73UYwSo6xyq79gImEOCr_4lzA9R8ou/view)  
   
 ---
 
