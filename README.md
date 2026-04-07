@@ -1,6 +1,6 @@
-# 🏄‍♂️ Forrest Knight
+# 🏄‍♂️ Edward Mike
 
-`IT Support Technician`
+**`Digital Craftsman`**
  
 <p> Highly disciplined, hardworking, and a fast learner with a strong commitment to building a career in IT Support. Open to First Line IT Support / Service Desk roles, focused on gaining practical, hands-on experience. </p>
 
