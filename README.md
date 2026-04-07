@@ -47,5 +47,26 @@ Certified in CCNA and ITIL5 Foundation, with developing skills in Windows Server
 
 ---
 
+## 📜 Certifications
+
+<br>
+
+![CCNA](https://img.shields.io/badge/CCNA-Cisco_Certified_Network_Associate-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)  
+🟢 Jan 2026  
+
+<br>
+
 ![ITIL](https://img.shields.io/badge/ITIL-v5_Foundation-%230072C6.svg?style=for-the-badge&logo=itil&logoColor=white)  
 🟢 Apr 2026  
+
+<br>
+
+![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-%23E2231A.svg?style=for-the-badge&logo=comptia&logoColor=white)  
+🟡 Expected May 2026  
+
+<br>
+
+![Microsoft](https://img.shields.io/badge/Microsoft-MD--102_%2F_MS--102-%230078D4.svg?style=for-the-badge&logo=microsoft&logoColor=white)  
+⚪ Planned 2026  
+
+<br>
