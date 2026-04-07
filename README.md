@@ -20,7 +20,7 @@ Certified in CCNA and ITIL5 Foundation, with developing skills in Windows Server
 ![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-%23E2231A.svg?style=for-the-badge&logo=comptia&logoColor=white)  
 
 `Planned 2026`  
-![Microsoft](https://img.shields.io/badge/Microsoft-MD--102_%2F_MS--102-%230078D4.svg?style=for-the-badge&logo=microsoft&logoColor=white)  
+![Microsoft](https://img.shields.io/badge/Microsoft-MD--102_%26_MS--102-%230078D4.svg?style=for-the-badge&logo=microsoft&logoColor=white)  
 <br>
 
 ---
