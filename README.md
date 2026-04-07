@@ -1,6 +1,6 @@
 # 🖥️🖧🏗️ Edward Mike
 
-**`IT Support Technician`**
+👉 **`IT Support Technician`**
  
 Highly disciplined, hardworking, and a fast learner with a strong commitment to building a career in IT Support. Open to First Line IT Support / Service Desk roles, focused on gaining practical, hands-on experience.
 Certified in CCNA and ITIL5 Foundation, with developing skills in Windows Server, Active Directory, Group Policy, and Microsoft Intune (MDM/MAM).
@@ -23,7 +23,7 @@ Certified in CCNA and ITIL5 Foundation, with developing skills in Windows Server
 
 ---
 
-**`🧰 Technical Skills`**<br>
+👉 **`🧰 Technical Skills`**<br>
 
 #### 🛢️🖥️ Windows Server & Infrastructure
 - Active Directory administration (users, groups, and organisational units)  
