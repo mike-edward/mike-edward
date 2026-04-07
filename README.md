@@ -25,7 +25,7 @@ Certified in CCNA and ITIL5 Foundation, with developing skills in Windows Server
 
 **`🧰 Technical Skills`**<br>
 
-### 🛢️🖥️ Windows Server & Infrastructure
+## 🛢️🖥️ Windows Server & Infrastructure
 - Active Directory administration (users, groups, and organisational units)  
 - Group Policy Objects (GPO) configuration and troubleshooting  
 - Security group management and access control  
