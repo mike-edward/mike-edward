@@ -7,7 +7,7 @@ Certified in CCNA and ITIL5 Foundation, with developing skills in Windows Server
 
 ---
 
-**` 👉 📜 Certifications`**<br>
+👉 **`📜 Certifications`**<br>
 
 🟢 **Cisco Certified Network Associate (CCNA)** — Jan 2026  
 <br>
