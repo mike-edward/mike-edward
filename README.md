@@ -23,7 +23,7 @@ Certified in CCNA and ITIL5 Foundation, with developing skills in Windows Server
 
 ---
 
-**`🧰 Technical Skills`**<br>
+**` ##🧰 Technical Skills`**<br>
 ## 🧰 Technical Skills
 
 ### 🪟 Windows Server & Infrastructure
