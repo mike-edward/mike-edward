@@ -9,17 +9,27 @@ Certified in CCNA and ITIL5 Foundation, with developing skills in Windows Server
 
 👉 **`📜 Certifications`**<br>
 
-🟢 **Cisco Certified Network Associate (CCNA)** — Jan 2026  
 <br>
-🟢 **ITIL v5 Foundation** — Apr 2026  
+
+[![CCNA](https://img.shields.io/badge/CCNA-Cisco_Certified_Network_Associate-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/8158f68d-d41a-436f-8829-103f9357d33c)  
+Jan 2026  
+
 <br>
-🟡 CompTIA A+ — Expected May 2026  
+
+[![ITIL](https://img.shields.io/badge/ITIL-v5_Foundation-%230072C6.svg?style=for-the-badge&logo=itil&logoColor=white)](https://drive.google.com/file/d/1gL73UYwSo6xyq79gImEOCr_4lzA9R8ou/view)  
+Apr 2026  
+
 <br>
-⚪ Microsoft Certifications (MD-102 / MS-102) — Planned 2026 
+
+![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-%23E2231A.svg?style=for-the-badge&logo=comptia&logoColor=white)  
+🟡 Expected May 2026  
+
 <br>
+
+![Microsoft](https://img.shields.io/badge/Microsoft-MD--102_%2F_MS--102-%230078D4.svg?style=for-the-badge&logo=microsoft&logoColor=white)  
+⚪ Planned 2026  
+
 <br>
-<p></p>
-<a target="_blank" href="https://www.credly.com/users/edward-mike/badges#credly" style="display: inline-block;"><img src="https://img.shields.io/badge/credlly-logo?style=for-the-badge&logo=credly&logoColor=white&color=orange" alt="credly"/></a>
 
 ---
 
@@ -44,29 +54,3 @@ Certified in CCNA and ITIL5 Foundation, with developing skills in Windows Server
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Edward-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edd-edward-mike/)
 [![Email](https://img.shields.io/badge/Gmail-Contact%20Me-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eddy.edwardmike@gmail.com)
-
----
-
-## 📜 Certifications
-
-<br>
-
-[![CCNA](https://img.shields.io/badge/CCNA-Cisco_Certified_Network_Associate-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/8158f68d-d41a-436f-8829-103f9357d33c)  
-Jan 2026  
-
-<br>
-
-[![ITIL](https://img.shields.io/badge/ITIL-v5_Foundation-%230072C6.svg?style=for-the-badge&logo=itil&logoColor=white)](https://drive.google.com/file/d/1gL73UYwSo6xyq79gImEOCr_4lzA9R8ou/view)  
-Apr 2026  
-
-<br>
-
-![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-%23E2231A.svg?style=for-the-badge&logo=comptia&logoColor=white)  
-🟡 Expected May 2026  
-
-<br>
-
-![Microsoft](https://img.shields.io/badge/Microsoft-MD--102_%2F_MS--102-%230078D4.svg?style=for-the-badge&logo=microsoft&logoColor=white)  
-⚪ Planned 2026  
-
-<br>
