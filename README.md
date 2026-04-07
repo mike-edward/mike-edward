@@ -18,7 +18,7 @@ Certified in CCNA and ITIL5 Foundation, with developing skills in Windows Server
 ⚪ Microsoft Certifications (MD-102 / MS-102) — Planned 2026 
 <br>
 
-Certifications verification link : <p><a target="_blank" href="https://www.credly.com/users/edward-mike/badges#credly" style="display: inline-block;"><img src="https://img.shields.io/badge/credlly-logo?style=for-the-badge&logo=credly&logoColor=white&color=orange" alt="credly"/></a></p>
+Certifications verification link : <a target="_blank" href="https://www.credly.com/users/edward-mike/badges#credly" style="display: inline-block;"><img src="https://img.shields.io/badge/credlly-logo?style=for-the-badge&logo=credly&logoColor=white&color=orange" alt="credly"/></a>
 
 ---
 
