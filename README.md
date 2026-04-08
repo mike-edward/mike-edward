@@ -13,7 +13,7 @@ Certified in CCNA and ITIL5 Foundation, with developing skills in Windows Server
 
 - **<h4>`ITIL v5 Foundation`</h4>** <h5> - April 2026 [View Certificate](https://drive.google.com/file/d/1gL73UYwSo6xyq79gImEOCr_4lzA9R8ou/view)</h5>
 
-- **<h4>`CompTIA A+`</h4>** <h5> - Expected May 2026
+- **<h4>`CompTIA A+`</h4>** - Expected May 2026
 
 - **<h4>`Microsoft Certifications (MD-102, SC-300)`</h4>** - planned 2026
 
