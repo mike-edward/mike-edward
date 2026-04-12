@@ -3,7 +3,6 @@
 **`IT Support Technician`**
  
 Highly disciplined, hardworking, and a fast learner with a strong commitment to building a career in IT Support. Open to First Line IT Support / Service Desk roles, focused on gaining practical, hands-on experience.
-Certified in CCNA and ITIL5 Foundation, with developing skills in Windows Server, Active Directory, Group Policy, and Microsoft Intune (MDM/MAM).
 
 ---
 
