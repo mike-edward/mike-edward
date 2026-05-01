@@ -14,8 +14,6 @@ Highly disciplined, hardworking, and a fast learner with a strong commitment to 
 
 - **<h4>`ITIL v5 Foundation`</h4>** <h5> - April 2026 [View Certificate](https://drive.google.com/file/d/1gL73UYwSo6xyq79gImEOCr_4lzA9R8ou/view)</h5>
 
-- **<h4>`MD-102`</h4>** - planned july 2026
-
 ---
 
 **<h3>`🧰 Technical Skills`</h3>**
