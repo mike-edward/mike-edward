@@ -16,8 +16,6 @@ Highly disciplined, hardworking, and a fast learner with a strong commitment to 
 
 - **<h4>`MD-102`</h4>** - planned july 2026
 
-![My Certificate]([https://example.com/certificate-image.png](https://www.linkedin.com/in/edd-edward-mike/overlay/Certifications/1752811262/treasury/?profileId=ACoAAGa0Lr4Bd367GcdeCnT-Im5eFp1p3Sj6jA4))
-
 ---
 
 **<h3>`🧰 Technical Skills`</h3>**
